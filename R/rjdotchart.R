@@ -20,7 +20,7 @@
 #' @param xlab axis notations as in title
 #' @return This function is invoked for its side effect, which is to produce two variatns of dotplots, with right-justified y-axis labels
 #' @examples
-#' rjdotchart(VADeaths, main = "Death Rates in Virginia - 1940")
+#' rjdotchart(VADeaths[1,], main = "Death Rates in Virginia - 1940")
 #' @export
 rjdotchart <- function (x, labels = NULL, groups = NULL, gdata = NULL, cex = par("cex"),
                        pt.cex = cex, pch = 21, gpch = 21, bg = par("bg"), color = par("fg"),

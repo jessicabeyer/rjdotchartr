@@ -50,5 +50,5 @@ This function is invoked for its side effect, which is to produce two variatns o
 This is a function which produces dot charts with right-justified y-axis labels
 }
 \examples{
-rjdotchart(VADeaths, main = "Death Rates in Virginia - 1940")
+rjdotchart(VADeaths[1,], main = "Death Rates in Virginia - 1940")
 }
