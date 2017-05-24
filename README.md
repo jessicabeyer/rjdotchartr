@@ -11,8 +11,8 @@ As an example, we can compare the results of dotchart and rjdotchart.
 ```
 dotchart(VADeaths[1,], main = "Death Rates in Virginia - 1940\n Ages 50-54")
 ```
-![dotchart example](https://github.com/jessicabeyer/rjdotchartr/blob/master/dotchartexample.pdf)
+![dotchart example](https://github.com/jessicabeyer/rjdotchartr/blob/master/example%20plots/dotchartexample.png)
 ```
 rjdotchart(VADeaths[1,], main = "Death Rates in Virginia - 1940\n Ages 50-54")
 ```
-![rjdotchart example](https://github.com/jessicabeyer/rjdotchartr/blob/master/rjdotchartexample.pdf)
+![rjdotchart example](https://github.com/jessicabeyer/rjdotchartr/blob/master/example%20plots/rjdotchartexample.png)
