@@ -1,0 +1,10 @@
+Package: rjdotchartr
+Title: Produces Dotcharts with Right-Justified Y-axis Labels
+Version: 0.0.0.9000
+Authors@R: person("Jessica", "Beyer", email = "beyer@ou.edu", role = c("aut", "cre"))
+Description: This package contains one function, a modification of the dotchart function from the base graphics package. This function (rjdotchart) produces dotcharts with right-justified y-axis labels.
+Depends: R (>= 3.3.2)
+License: CC0
+Encoding: UTF-8
+LazyData: true
+RoxygenNote: 6.0.1.9000
